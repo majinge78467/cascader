@@ -1,5 +1,5 @@
 {
-  "name": "rc-cascader",
+  "name": "ma-cascader",
   "version": "1.0.1",
   "description": "cascade select ui component for react",
   "keywords": [
@@ -15,7 +15,7 @@
   "author": "afc163@gmail.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-component/cascader.git"
+    "url": "git+https://github.com/react-component/cascader.git"
   },
   "bugs": {
     "url": "https://github.com/react-component/cascader/issues"
@@ -67,5 +67,9 @@
     "rc-trigger": "^4.0.0",
     "rc-util": "^4.0.4",
     "warning": "^4.0.1"
+  },
+  "directories": {
+    "example": "examples",
+    "test": "tests"
   }
 }
